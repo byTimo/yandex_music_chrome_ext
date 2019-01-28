@@ -1,0 +1,25 @@
+.player-controls__track-container__copy {
+        background: transparent;
+    border: transparent;
+    padding: 16px 6px;
+    font-size: 20px;
+    color: #777;
+    cursor: pointer;
+}
+
+.player-controls__track-container__copy:hover {
+    color: black;
+}
+
+.track_copy {
+    background: transparent;
+    border: transparent;
+    padding: 5px;
+    color: #777;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.track_copy:hover{
+    color: black;
+}
